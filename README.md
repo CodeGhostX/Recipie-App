@@ -34,10 +34,6 @@ To run the Recipe App locally, follow these steps:
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
 
-## Contributors
 
-- [Your Name](https://github.com/yourusername)
-
-Feel free to contribute by forking the repository, making changes, and creating a pull request.
 
 
